@@ -3427,7 +3427,7 @@ Este é um novo modo experimental. Se você decidir usá-lo, relate quaisquer pr
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="514"/>
         <source>File/Folder is ignored because it&apos;s hidden.</source>
-        <translation>Arquivo/pasta ignorado porque porque está escondido.</translation>
+        <translation>Arquivo/pasta ignorado porque está oculto.</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="517"/>
